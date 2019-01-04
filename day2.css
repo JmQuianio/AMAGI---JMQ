@@ -1,0 +1,9 @@
+h1 {
+	font-size: 100px;
+}
+#abc {
+	font-size: 200px
+}
+.cba {
+	font: serif; font-size: 300px;
+}
